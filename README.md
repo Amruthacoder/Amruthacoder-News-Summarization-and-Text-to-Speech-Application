@@ -1,44 +1,45 @@
-📰 News Sentiment Analysis with Hindi TTS 🎙️
+# 📰 News Sentiment Analysis with Hindi TTS 🎙️
 
-📌 Project Overview
+![Alt](https://static-blog.onlyoffice.com/wp-content/uploads/2023/08/14123647/ONLYOFFICE-10-text-to-speech-tools-to-consider-in-2023.png)
+## 📌 Project Overview
 
 This project is a news sentiment analysis tool that scrapes recent news articles for a given company, summarizes them, performs sentiment analysis, and generates a Hindi TTS (Text-to-Speech) summary. The analysis helps users understand media coverage trends and sentiment distribution.
 
-🔥 Features
+## 🔥 Features
 
-Scrape news articles from selected sources.
+- Scrape news articles from selected sources.
 
-Summarize articles using the BART model.
+- Summarize articles using the BART model.
 
-Perform sentiment analysis using TextBlob.
+- Perform sentiment analysis using TextBlob.
 
-Generate Hindi speech with gTTS.
+- Generate Hindi speech with gTTS.
 
-Provide a comparative analysis of different articles.
+- Provide a comparative analysis of different articles.
 
-FastAPI backend with endpoints for data access.
+- FastAPI backend with endpoints for data access.
 
-Deployed on Hugging Face Spaces for easy access.
+- Deployed on Hugging Face Spaces for easy access.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Python (FastAPI, BeautifulSoup, Requests, Pandas, NLTK)
+- Python (FastAPI, BeautifulSoup, Requests, Pandas, NLTK)
 
-YAKE (Keyword extraction)
+- YAKE (Keyword extraction)
 
-TextBlob (Sentiment analysis)
+- TextBlob (Sentiment analysis)
 
-Facebook BART Model (Summarization)
+- Facebook BART Model (Summarization)
 
-gTTS (Hindi Text-to-Speech)
+- gTTS (Hindi Text-to-Speech)
 
-FastAPI (Backend API development)
+- FastAPI (Backend API development)
 
-Streamlit (User interface)
+- Streamlit (User interface)
 
-Hugging Face Spaces (Deployment)
+- Hugging Face Spaces (Deployment)
 
-📥 Installation & Setup
+## 📥 Installation & Setup
 
 🛠️ 1. Clone the Repository
 
@@ -49,6 +50,8 @@ Hugging Face Spaces (Deployment)
 API will be available at: http://127.0.0.1:8000/docs
 
 🎭 4. Run the Streamlit UI (Optional)
+
+run.py is there to serve as the entry point for running the application, handling initialization, and managing API or UI execution. 🚀
 
 🌍 How to Use
 
@@ -88,34 +91,35 @@ Get Hindi speech summary
 
 🔹 Summarization Model
 
-Uses Facebook BART (facebook/bart-large-cnn) for text summarization.
+- Uses Facebook BART (facebook/bart-large-cnn) for text summarization.
 
-Extracts key information from scraped news articles.
+- Extracts key information from scraped news articles.
 
 🔹 Sentiment Analysis
 
-Uses TextBlob for polarity-based sentiment scoring.
+- Uses TextBlob for polarity-based sentiment scoring.
 
-Classifies articles as Positive, Negative, or Neutral.
+- Classifies articles as Positive, Negative, or Neutral.
 
 🔹 Hindi TTS (Text-to-Speech)
 
-Uses gTTS (Google Text-to-Speech) to generate Hindi audio.
+- Uses gTTS (Google Text-to-Speech) to generate Hindi audio.
 
-Creates a spoken summary of sentiment analysis.
+- Creates a spoken summary of sentiment analysis.
 
-⚠️ Assumptions & Limitations
+## ⚠️ Assumptions & Limitations
 
-Scraped articles depend on website structure and may fail if changes occur.
+- Scraped articles depend on website structure and may fail if changes occur.
 
-Sentiment analysis is based on text polarity and may not always capture nuances.
+- Sentiment analysis is based on text polarity and may not always capture nuances.
 
-Only supports English text input but generates Hindi speech.
+- Only supports English text input but generates Hindi speech.
 
-🚀 Deployment
+## 🚀 Deployment
 
-This project is publicly accessible on Hugging Face Spaces:
-🔗 Visit Here
+🔗 Live Demo
+You can try the application live on Hugging Face Spaces:  
+[🖥️ News Summarization Hindi TTS](https://huggingface.co/spaces/Amruthayenikonda/News-Summarization-Hindi-TTS)
 
 No account needed to access API docs and test endpoints!
 
