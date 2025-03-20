@@ -1,0 +1,197 @@
+{
+    "Company": "Samsung",
+    "Articles": [
+        {
+            "Article Number": 1,
+            "Title": "I Tried Google and Samsung's Next-Gen Android XR Headsets and Glasses, and the Killer App Is AI",
+            "URL": "https://www.cnet.com/tech/computing/i-tried-google-and-samsungs-next-gen-android-xr-headsets-and-glasses-and-the-killer-app-is-ai/",
+            "Summary": "Android XR is available in early form for developers now and will fully launch in 2025. It promises a whole OS for headsets and glass. Samsung's mixed-reality headset and Google's glasses are powered by an all-seeing assistant.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Google",
+                "Vision Pro",
+                "glasses",
+                "Android",
+                "Gemini"
+            ]
+        },
+        {
+            "Article Number": 2,
+            "Title": "Here’s what Samsung’s first Android XR headset looks like in person",
+            "URL": "https://www.theverge.com/2025/1/22/24349736/samsung-project-moohan-photos-android-xr-headset",
+            "Summary": "Samsung has its Project Moohan headset on display at Galaxy Unpacked. To me, it looks somewhat similar to Apple’s high-end Vision Pro headset.",
+            "Sentiment": "Neutral",
+            "Keywords": [
+                "Project Moohan",
+                "CONTENT",
+                "’ve",
+                "Project",
+                "Moohan"
+            ]
+        },
+        {
+            "Article Number": 3,
+            "Title": "Samsung XR headset display set to go toe-to-toe with Apple Vision Pro",
+            "URL": "https://www.digitaltrends.com/computing/samsung-xr-headset-display/",
+            "Summary": "The Samsung XR headset will reportedly use a Sony 1.35-inch micro-OLED display. The display is the same hardware that Sony is using in its own flip-up headset, the XR.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Vision Pro",
+                "Apple Vision",
+                "Vision",
+                "Pro",
+                "Samsung"
+            ]
+        },
+        {
+            "Article Number": 4,
+            "Title": "Samsung's Android XR headset could avoid the Apple Vision Pro's biggest mistake, according to this leak",
+            "URL": "https://www.techradar.com/computing/virtual-reality-augmented-reality/samsungs-android-xr-headset-could-avoid-the-apple-vision-pros-biggest-mistake-according-to-this-leak",
+            "Summary": "Samsung and Google’s XR headset – currently known as Project Moohan – is shaping up to be an Apple Vision Pro competitor. Samsung had already confirmed the headset would b.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Vision Pro",
+                "Apple Vision",
+                "Vision",
+                "Pro",
+                "Samsung"
+            ]
+        },
+        {
+            "Article Number": 5,
+            "Title": "Samsung’s New Android XR Headset Shows Everyone Underestimated the Apple Vision Pro",
+            "URL": "https://www.gizmodo.com/samsungs-project-moohan-vision-pros-best-features-2000555771",
+            "Summary": "Samsung is working on its own VR/AR helmet dubbed âProject Moohan. The first video to finally show off its capabilities in full seems to cement Samsung and Google’s biggest inspiration for the headset.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Vision Pro",
+                "Meta Quest",
+                "Vision",
+                "Pro",
+                "Meta"
+            ]
+        },
+        {
+            "Article Number": 6,
+            "Title": "I saw Google’s plan to put Android on your face",
+            "URL": "https://www.theverge.com/2024/12/12/24319528/google-android-xr-samsung-project-moohan-smart-glasses?utm_source=chatgpt.com",
+            "Summary": "I felt as close to Tony Stark in a controlled demo as I’ll ever be. I demoed Google’s new Android XR platform, Samsung’S Project Moohan, and prototype smart glasses.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Google",
+                "Gemini",
+                "Tony Stark",
+                "Project Moohan",
+                "smart glasses"
+            ]
+        },
+        {
+            "Article Number": 7,
+            "Title": "Samsung’s new XR headset just tipped for a big advantage over the Apple Vision Pro",
+            "URL": "https://www.tomsguide.com/computing/vr-ar/samsungs-project-moohan-could-have-better-displays-than-apple-vision-pro-heres-how",
+            "Summary": "Samsung’s Project Moohan XR headset might have been on show at MWC 2025. Samsung didn’t actually give us any information on what to expect from the device. However a new report from The Elec may have revealed some key details, including the fact Samsung could be using a better screen.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Project Moohan",
+                "Samsung",
+                "Vision Pro",
+                "Apple Vision",
+                "Moohan"
+            ]
+        },
+        {
+            "Article Number": 8,
+            "Title": "Unlock the Infinite Possibilities of XR With Galaxy AI",
+            "URL": "https://news.samsung.com/global/unlock-the-infinite-possibilities-of-xr-with-galaxy-ai",
+            "Summary": " eXtended lets you step into any world in an instant. From the bustling streets of New York City to the snowy mountain tops of the Alps.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "world",
+                "Internet Explorer",
+                "reality",
+                "Google",
+                "Project Moohan"
+            ]
+        },
+        {
+            "Article Number": 9,
+            "Title": "Project Moohan: Samsung’s XR headset launches this year",
+            "URL": "https://www.provideocoalition.com/project-moohan-samsungs-xr-headset-launches-this-year/",
+            "Summary": "Samsung used the Mobile World Congress (MWC) 2025 to showcase its latest AI-powered innovations and expanded mobile experiences. Samsung’s upcoming XR headset will have the capability to run all current Android mobile applications.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Project Moohan",
+                "Android",
+                "Moohan",
+                "Android mobile",
+                "Samsung"
+            ]
+        },
+        {
+            "Article Number": 10,
+            "Title": "Money Report",
+            "URL": "https://www.nbcnewyork.com/news/business/money-report/samsung-to-launch-its-apple-vision-pro-rival-headset-this-year/6172201/",
+            "Summary": "Project Moohan is Samsung's answer to Apple's $3,500 Vision Pro. Samsung refers to the product as \"extended reality\" or XR device which aims to merge the digital and physical world.",
+            "Sentiment": "Neutral",
+            "Keywords": [
+                "Samsung",
+                "CONTENT",
+                "headset",
+                "year",
+                "device"
+            ]
+        }
+    ],
+    "Sentiment Distribution": {
+        "Positive": 8,
+        "Negative": 0,
+        "Neutral": 2
+    },
+    "Comparative Sentiment Score": {
+        "Sentiment Distribution": {
+            "Positive": 8,
+            "Negative": 0,
+            "Neutral": 2
+        },
+        "Coverage Differences": [
+            {
+                "Comparison": "Article 1 discusses Google, Vision Pro, glasses, Android, Gemini, while Article 2 focuses on Project Moohan, CONTENT, ’ve, Project, Moohan.",
+                "Impact": "Article 1 may impact Positive market trends, while Article 2 could affect Neutral consumer perceptions."
+            },
+            {
+                "Comparison": "Article 2 discusses Project Moohan, CONTENT, ’ve, Project, Moohan, while Article 3 focuses on Vision Pro, Apple Vision, Vision, Pro, Samsung.",
+                "Impact": "Article 2 may impact Neutral market trends, while Article 3 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 3 discusses Vision Pro, Apple Vision, Vision, Pro, Samsung, while Article 4 focuses on Vision Pro, Apple Vision, Vision, Pro, Samsung.",
+                "Impact": "Article 3 may impact Positive market trends, while Article 4 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 4 discusses Vision Pro, Apple Vision, Vision, Pro, Samsung, while Article 5 focuses on Vision Pro, Meta Quest, Vision, Pro, Meta.",
+                "Impact": "Article 4 may impact Positive market trends, while Article 5 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 5 discusses Vision Pro, Meta Quest, Vision, Pro, Meta, while Article 6 focuses on Google, Gemini, Tony Stark, Project Moohan, smart glasses.",
+                "Impact": "Article 5 may impact Positive market trends, while Article 6 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 6 discusses Google, Gemini, Tony Stark, Project Moohan, smart glasses, while Article 7 focuses on Project Moohan, Samsung, Vision Pro, Apple Vision, Moohan.",
+                "Impact": "Article 6 may impact Positive market trends, while Article 7 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 7 discusses Project Moohan, Samsung, Vision Pro, Apple Vision, Moohan, while Article 8 focuses on world, Internet Explorer, reality, Google, Project Moohan.",
+                "Impact": "Article 7 may impact Positive market trends, while Article 8 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 8 discusses world, Internet Explorer, reality, Google, Project Moohan, while Article 9 focuses on Project Moohan, Android, Moohan, Android mobile, Samsung.",
+                "Impact": "Article 8 may impact Positive market trends, while Article 9 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 9 discusses Project Moohan, Android, Moohan, Android mobile, Samsung, while Article 10 focuses on Samsung, CONTENT, headset, year, device.",
+                "Impact": "Article 9 may impact Positive market trends, while Article 10 could affect Neutral consumer perceptions."
+            }
+        ]
+    },
+    "Final Sentiment Analysis": "samsung की हाल की खबरें ज्यादातर Positive हैं।",
+    "Audio": "[Play Hindi Speech](/get_tts/samsung)"
+}

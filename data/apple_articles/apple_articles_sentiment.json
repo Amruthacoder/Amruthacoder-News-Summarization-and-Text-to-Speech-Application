@@ -1,0 +1,197 @@
+{
+    "Company": "Apple",
+    "Articles": [
+        {
+            "Article Number": 1,
+            "Title": "Apple Vision Pro review one year later: time to exit the preview",
+            "URL": "https://appleinsider.com/articles/25/01/29/apple-vision-pro-review-one-year-later-time-to-exit-the-preview",
+            "Summary": "It's been a wild year for Apple Vision Pro, if slow, and it's time for Apple to step up and prove it's the future. It is simultaneously a preview of the future and a stark reminder of Apple's struggl.",
+            "Sentiment": "Neutral",
+            "Keywords": [
+                "Apple Vision",
+                "Vision Pro",
+                "Apple",
+                "Vision",
+                "Pro"
+            ]
+        },
+        {
+            "Article Number": 2,
+            "Title": "M4 MacBook Air review roundup: Welcome upgrade, but no surprises",
+            "URL": "https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises",
+            "Summary": "First hands-on reviews of the new MacBook Air with M4 processor have appeared. The previous model, the M3 MacBook Air was described by AppleInsider as the best Mac for most people.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "MacBook Air",
+                "Air",
+                "MacBook",
+                "Apple",
+                "Apple MacBook"
+            ]
+        },
+        {
+            "Article Number": 3,
+            "Title": "iPhone 16e review: All the bells, none of the whistles on this battery-heavy device",
+            "URL": "https://appleinsider.com/articles/25/03/12/iphone-16e-review-all-the-bells-none-of-the-whistles-on-this-battery-heavy-device",
+            "Summary": "The iPhone 16e is a flagship device with the core iPhone experience at a lower price tag. Many users were hoping to see a new iPhone SE 4 in the spring of 2025.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "iPhone",
+                "Apple",
+                "Apple iPhone",
+                "Apple Intelligence",
+                "Action Button"
+            ]
+        },
+        {
+            "Article Number": 4,
+            "Title": "iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option",
+            "URL": "https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option",
+            "Summary": "The iPhone 16e has arrived as the new entry-level model for consumers. Arriving just shy of three years after the third-generation iPhone SE. Here's how it compares to yesterday's budget option.",
+            "Sentiment": "Negative",
+            "Keywords": [
+                "iPhone",
+                "Apple",
+                "Apple Intelligence",
+                "camera",
+                "Apple iPhone"
+            ]
+        },
+        {
+            "Article Number": 5,
+            "Title": "Pebble's new smartwatches take on Apple Watch with longer battery life",
+            "URL": "https://appleinsider.com/articles/25/03/18/pebbles-new-smartwatches-take-on-apple-watch-with-longer-battery-life",
+            "Summary": "Pebble is making a comeback with the Core 2 Duo and the Core Time 2. Led by original Pebble founder Eric Migicovsky, these offerings provide an alternative to the Apple Watch.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Apple",
+                "Apple Watch",
+                "Pebble",
+                "Apple Series",
+                "battery life"
+            ]
+        },
+        {
+            "Article Number": 6,
+            "Title": "Rumored iOS 19 & macOS 16 design changes will be polarizing, as always",
+            "URL": "https://appleinsider.com/articles/25/03/11/rumored-ios-19-macos-16-design-changes-will-be-polarizing-as-always",
+            "Summary": "Apple is rumored to be overhauling the design of iOS 19 and macOS 16. The changes will polarize users before ultimately becoming accepted. This rumored redesign could even be enormous, and may follow previous claims that Apple will bring visionOS design touches to all of its platforms.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Big Sur",
+                "Apple",
+                "Control Center",
+                "iOS",
+                "macOS Big"
+            ]
+        },
+        {
+            "Article Number": 7,
+            "Title": "AirPods 4 - four-month review: The best Apple earbuds for most people",
+            "URL": "https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people",
+            "Summary": "The AirPods 4 come in a new, smaller case that you can take anywhere. While the AirPod Pro 2 and AirPOD Max still sit at the very top of Apple's audio accessory pyramid, they're known for their smaller size.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "AirPods Pro",
+                "AirPods",
+                "Apple",
+                "Pro",
+                "ANC"
+            ]
+        },
+        {
+            "Article Number": 8,
+            "Title": "iPhone 16e vs iPhone SE 3: A quantum leap forward",
+            "URL": "https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-se-3-a-quantum-leap-forward",
+            "Summary": "The iPhone 16e brings the iPhone SE kicking and screaming to modern times. Here's what's new about the spiritual successor versus the outgoing budget-friendly model. Apple has consistently kept the design of theiPhone SE behind the rest of the iPhone range.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "iPhone",
+                "Apple",
+                "Apple iPhone",
+                "Apple Intelligence",
+                "Home button"
+            ]
+        },
+        {
+            "Article Number": 9,
+            "Title": "New M4 MacBook Air fixes the line's biggest problem",
+            "URL": "https://appleinsider.com/articles/25/03/05/new-m4-macbook-air-fixes-the-lines-biggest-problem",
+            "Summary": "The new M4 MacBook Air fixes what's been a key problem with the line. It now supports up to two external monitors —  and does so without the limitations of the previous M3 edition.",
+            "Sentiment": "Neutral",
+            "Keywords": [
+                "MacBook Air",
+                "MacBook Pro",
+                "MacBook",
+                "monitors",
+                "Air"
+            ]
+        },
+        {
+            "Article Number": 10,
+            "Title": "Apple Watch Series 10 three-month review: Iterative isn't a bad word",
+            "URL": "https://appleinsider.com/articles/25/01/14/apple-watch-series-10-three-month-review-iterative-isnt-a-bad-word",
+            "Summary": "The Apple Watch Series 10 has been on my wrist for three months now. It's clear that it's the best smartwatch Apple ever made. But that doesn't mean there aren't things that a future Series 11 could do better.",
+            "Sentiment": "Positive",
+            "Keywords": [
+                "Apple Watch",
+                "Watch Series",
+                "Apple",
+                "Series",
+                "Watch"
+            ]
+        }
+    ],
+    "Sentiment Distribution": {
+        "Positive": 7,
+        "Negative": 1,
+        "Neutral": 2
+    },
+    "Comparative Sentiment Score": {
+        "Sentiment Distribution": {
+            "Positive": 7,
+            "Negative": 1,
+            "Neutral": 2
+        },
+        "Coverage Differences": [
+            {
+                "Comparison": "Article 1 discusses Apple Vision, Vision Pro, Apple, Vision, Pro, while Article 2 focuses on MacBook Air, Air, MacBook, Apple, Apple MacBook.",
+                "Impact": "Article 1 may impact Neutral market trends, while Article 2 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 2 discusses MacBook Air, Air, MacBook, Apple, Apple MacBook, while Article 3 focuses on iPhone, Apple, Apple iPhone, Apple Intelligence, Action Button.",
+                "Impact": "Article 2 may impact Positive market trends, while Article 3 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 3 discusses iPhone, Apple, Apple iPhone, Apple Intelligence, Action Button, while Article 4 focuses on iPhone, Apple, Apple Intelligence, camera, Apple iPhone.",
+                "Impact": "Article 3 may impact Positive market trends, while Article 4 could affect Negative consumer perceptions."
+            },
+            {
+                "Comparison": "Article 4 discusses iPhone, Apple, Apple Intelligence, camera, Apple iPhone, while Article 5 focuses on Apple, Apple Watch, Pebble, Apple Series, battery life.",
+                "Impact": "Article 4 may impact Negative market trends, while Article 5 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 5 discusses Apple, Apple Watch, Pebble, Apple Series, battery life, while Article 6 focuses on Big Sur, Apple, Control Center, iOS, macOS Big.",
+                "Impact": "Article 5 may impact Positive market trends, while Article 6 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 6 discusses Big Sur, Apple, Control Center, iOS, macOS Big, while Article 7 focuses on AirPods Pro, AirPods, Apple, Pro, ANC.",
+                "Impact": "Article 6 may impact Positive market trends, while Article 7 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 7 discusses AirPods Pro, AirPods, Apple, Pro, ANC, while Article 8 focuses on iPhone, Apple, Apple iPhone, Apple Intelligence, Home button.",
+                "Impact": "Article 7 may impact Positive market trends, while Article 8 could affect Positive consumer perceptions."
+            },
+            {
+                "Comparison": "Article 8 discusses iPhone, Apple, Apple iPhone, Apple Intelligence, Home button, while Article 9 focuses on MacBook Air, MacBook Pro, MacBook, monitors, Air.",
+                "Impact": "Article 8 may impact Positive market trends, while Article 9 could affect Neutral consumer perceptions."
+            },
+            {
+                "Comparison": "Article 9 discusses MacBook Air, MacBook Pro, MacBook, monitors, Air, while Article 10 focuses on Apple Watch, Watch Series, Apple, Series, Watch.",
+                "Impact": "Article 9 may impact Neutral market trends, while Article 10 could affect Positive consumer perceptions."
+            }
+        ]
+    },
+    "Final Sentiment Analysis": "apple की हाल की खबरें ज्यादातर Positive हैं।",
+    "Audio": "[Play Hindi Speech](/get_tts/apple)"
+}
