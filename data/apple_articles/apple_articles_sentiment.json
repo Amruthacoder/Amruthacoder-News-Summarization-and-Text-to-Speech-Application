@@ -94,8 +94,8 @@
             "Keywords": [
                 "AirPods Pro",
                 "AirPods",
-                "Apple",
                 "Pro",
+                "Apple",
                 "ANC"
             ]
         },
@@ -121,8 +121,8 @@
             "Sentiment": "Neutral",
             "Keywords": [
                 "MacBook Air",
-                "MacBook Pro",
                 "MacBook",
+                "MacBook Pro",
                 "monitors",
                 "Air"
             ]
@@ -175,19 +175,19 @@
                 "Impact": "Article 5 may impact Positive market trends, while Article 6 could affect Positive consumer perceptions."
             },
             {
-                "Comparison": "Article 6 discusses Big Sur, Apple, Control Center, iOS, macOS Big, while Article 7 focuses on AirPods Pro, AirPods, Apple, Pro, ANC.",
+                "Comparison": "Article 6 discusses Big Sur, Apple, Control Center, iOS, macOS Big, while Article 7 focuses on AirPods Pro, AirPods, Pro, Apple, ANC.",
                 "Impact": "Article 6 may impact Positive market trends, while Article 7 could affect Positive consumer perceptions."
             },
             {
-                "Comparison": "Article 7 discusses AirPods Pro, AirPods, Apple, Pro, ANC, while Article 8 focuses on iPhone, Apple, Apple iPhone, Apple Intelligence, Home button.",
+                "Comparison": "Article 7 discusses AirPods Pro, AirPods, Pro, Apple, ANC, while Article 8 focuses on iPhone, Apple, Apple iPhone, Apple Intelligence, Home button.",
                 "Impact": "Article 7 may impact Positive market trends, while Article 8 could affect Positive consumer perceptions."
             },
             {
-                "Comparison": "Article 8 discusses iPhone, Apple, Apple iPhone, Apple Intelligence, Home button, while Article 9 focuses on MacBook Air, MacBook Pro, MacBook, monitors, Air.",
+                "Comparison": "Article 8 discusses iPhone, Apple, Apple iPhone, Apple Intelligence, Home button, while Article 9 focuses on MacBook Air, MacBook, MacBook Pro, monitors, Air.",
                 "Impact": "Article 8 may impact Positive market trends, while Article 9 could affect Neutral consumer perceptions."
             },
             {
-                "Comparison": "Article 9 discusses MacBook Air, MacBook Pro, MacBook, monitors, Air, while Article 10 focuses on Apple Watch, Watch Series, Apple, Series, Watch.",
+                "Comparison": "Article 9 discusses MacBook Air, MacBook, MacBook Pro, monitors, Air, while Article 10 focuses on Apple Watch, Watch Series, Apple, Series, Watch.",
                 "Impact": "Article 9 may impact Neutral market trends, while Article 10 could affect Positive consumer perceptions."
             }
         ]
